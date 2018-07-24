@@ -3,5 +3,5 @@ def mothers_day
   puts "Happy Mother's Day, Mom!"
 end 
 
-mother's_day 
+mothers_day
 
