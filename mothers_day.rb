@@ -10,3 +10,10 @@ def mothers_day(the_name)
 end
 
 mothers_day("Blake Lively")
+
+def mothers_day(the_name = "Beyonce")
+  puts "Happy Mother's Day, Mom!"
+  puts "Happy Mother's Day, #{the_name}!"
+end
+
+mothers_day
